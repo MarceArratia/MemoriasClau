@@ -1,0 +1,248 @@
+.divBook{
+ margin-left: 20%;
+ margin-top: 10%;
+  box-shadow: 2px 2px 9px #999;
+  height:665px;
+  width:800px;
+}
+
+.divFlip{
+border-bottom: 10%;
+}
+.divCover{
+    text-align: center;
+
+}
+
+h2{
+  font-family: serif;
+    font-size: 200%;
+    
+}
+
+.divInfo{
+  margin-top: 5%;
+  padding: 10%;
+}
+
+.divInfoTwo{
+  margin-top: 5%;
+}
+
+.titleCover{
+ font-family: serif;
+ text-align: center;
+ font-size: 35px;
+}
+
+.gitLink{
+    text-align: center;
+}
+
+.parrafOne{
+    font-family: serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 6%;
+    margin-right: 6%;
+
+}
+
+.parraf12{
+  font-family: serif;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.parrafTwo{
+  font-family: serif;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 5%;
+  padding: 4%;
+
+}
+
+.divEjem{
+  margin-left: 15%;
+}
+
+.divEjem1{
+  text-align: center;
+}
+
+.parrafNine{
+  font-family: serif;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 8%;
+  margin-right: 8%;
+
+}
+
+.fraseGrace{
+  font-family: cursive;
+  font-size: 19px;
+  padding: 1%;
+}
+
+.img1{
+  width: 180px;
+  height: 190px;
+  border-radius: 90%;
+  
+  }
+
+  .img2 {
+    width: 150px;
+    height: 180;
+    border-radius: 10%;
+    margin-left: 33%;
+ 
+}
+
+
+.tableHabilitys{
+    text-align: center;
+    margin: auto;
+    
+  }
+
+  .divTable{
+    display: inline-block; 
+    margin-left: 10%;
+  }
+  .thProject{
+  padding-left: 110px;
+  font-family: serif;
+  }
+
+  .thProjectuno{
+    margin-left: 350px;
+    font-family: serif;
+  }
+
+  .tdProjectuno{
+    padding-left: 95px;
+    padding-right: 5%;
+    font-family: serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.tdSpace{
+  padding: 5%;
+}
+
+.divTitleTable{
+  font-size: 20px;
+  margin-left: 60%;
+}
+
+.divTitleTabletwo{
+  font-size: 20px;
+  margin-left: 43%;
+}
+
+  .imgSoft{
+    width: 70px;
+    height: 70px;
+    padding-left: 25%;
+  }
+
+  .imgKills{
+    width: 150px;
+    height: 150px;
+    border-radius: 40%;
+  }
+
+  .imgKillsG{
+    width: 150px;
+    height: 180px;
+    border-radius: 50%;
+  }
+
+  .imgKillsGr{
+    width: 180px;
+    height: 150px;
+    border-radius: 10%;
+  }
+
+  .imgLove{
+    width: 180px;
+    height: 150px;
+    border-radius: 10%;
+  }
+
+  .softKills{
+    width: 70px;
+    height: 70px;
+    padding-left: 4%;
+  }
+
+  .tableFront{
+    margin-left: 10%;
+  }
+
+  .frontEnd{
+    width: 70px;
+    height: 70px;
+    padding-left: 35%;
+  }
+
+  .divTitleFrint{
+    margin-left: 40%;
+    font-size: 20px;
+  }
+  
+  .divContact{
+    width: 20px;
+    height: 20px;
+    margin-right: 5%;
+}
+   
+  .thTitle{
+    margin-left: 10%;
+  }
+  .imgProyect{
+    width: 380px;
+    height: 220px;
+    border-radius: 40%;
+    padding: 10%;
+    margin-top: 5%;
+  }
+
+
+
+  .urlProyect{
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .imgButton{
+    width: 150px;
+    height: 170px;
+    border-radius: 30%;
+    margin-left: 133px;
+  }
+
+  .imgButtonTwo{
+    width: 280px;
+    height: 250px;
+    border-radius: 10%;
+    margin-left: 50px;
+  }
+
+  .imgButtonT {
+    width: 180px;
+    height: 200px;
+    border-radius: 10%;
+    margin-left: 130px;
+}
+/*
+  .hability{
+      padding-left: 45%;
+      padding-top: 5%;
+  }*/
